@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
+<img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
+<a href="https://blog.csdn.net/qq_34595089?type=blog"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
+</p>
