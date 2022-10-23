@@ -4,13 +4,17 @@
 	</a>
 </h1>
 
+<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-<a href="https://blog.csdn.net/qq_34595089?type=blob"><img src="https://img.shields.io/static/v1?label=Blob&message=CSDN&color=red"/></a>
+## 数据行业—lpy
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lpeiyi)
+热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
 
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
 
-<div align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=lpeiyi&theme=xcode" />
-</div>
+### Github 活跃度
+
+[![](https://activity-graph.herokuapp.com/graph?username=lpeiyi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=lpeiyi&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpeiyi&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lpeiyi&layout=compact&langs_count=6)
