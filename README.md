@@ -5,7 +5,7 @@
 </h1>
 
 
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:lpeiyi?theme=rule34">
 
 ## 数据行业—lpy
 
