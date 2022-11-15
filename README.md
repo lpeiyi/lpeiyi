@@ -1,15 +1,11 @@
 <h1 align="center">
-	<a href="https://sunguoqi.com/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!&center=true&size=35">
-	</a>
+	<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!&center=true&size=35">	
 </h1>
-
 
 <img align="right" src="https://count.getloli.com/get/@:lpeiyi?theme=rule34">
 
 ***
-### 自我介绍
-热爱技术。工作经验1年。喜欢参与一些开源项目的讨论。
+#### CV工程师Lpy，喜欢摸鱼，缺乏独立思考。
 ***
  
 ### 活跃度
