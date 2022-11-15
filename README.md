@@ -9,6 +9,4 @@
 ***
  
 ### 活跃度
-
-[![](https://activity-graph.herokuapp.com/graph?username=lpeiyi&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=lpeiyi&show_icons=true&theme=vue)
+![](https://activity-graph.herokuapp.com/graph?username=lpeiyi&theme=github)
