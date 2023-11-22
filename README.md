@@ -5,6 +5,7 @@
 ***
 #### 我是CV工程师lu9up，喜欢摸鱼，缺乏独立思考。
 ***
- 
-### 活跃度
-![](https://activity-graph.herokuapp.com/graph?username=lpeiyi&theme=github)
+
+![](https://github-readme-stats.vercel.app/api?username=lpeiyi&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpeiyi&layout=compact&theme=tokyonight)
